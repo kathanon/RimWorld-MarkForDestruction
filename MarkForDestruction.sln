@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6B0519A5-9D6A-4C58-9F1E-506B9DC9136E}") = "MarkForDestruction", "Source\MarkForDestruction.csproj", "{44EBBAE9-B353-40C7-A9AF-8FB49F57C776}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44EBBAE9-B353-40C7-A9AF-8FB49F57C776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44EBBAE9-B353-40C7-A9AF-8FB49F57C776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44EBBAE9-B353-40C7-A9AF-8FB49F57C776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44EBBAE9-B353-40C7-A9AF-8FB49F57C776}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEEC890D-989E-4FA0-9A8E-9E8AEB9DD6A8}
+	EndGlobalSection
+EndGlobal
